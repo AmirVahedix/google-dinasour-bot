@@ -1,1 +1,1 @@
-A Bot For Play Google Dinasoure Bot Automatiicaly
+A Bot For Play Google Dinasoure Bot Automatically
